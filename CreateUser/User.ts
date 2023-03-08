@@ -6,7 +6,7 @@ class User {
   
     name: string;
   
-    year: number
+    old: number
 
     email: string;
   
